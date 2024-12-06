@@ -167,3 +167,4 @@ static/
 staticfiles/
 tests/
 env/
+env
